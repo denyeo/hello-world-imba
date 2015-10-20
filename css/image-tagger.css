@@ -1,0 +1,19 @@
+#canvas {
+    position: relative;
+}
+#canvas .canvasimg {
+    position: absolute;
+}
+
+.marker-container {
+    position: absolute;
+    z-index: 2;
+}
+
+.marker {
+    position: absolute;
+}
+
+.marker img {
+    position: relative;
+}
