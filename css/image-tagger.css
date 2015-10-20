@@ -1,7 +1,7 @@
-#canvas {
+#imgtag {
     position: relative;
 }
-#canvas .canvasimg {
+#imgtag .canvasimg {
     position: absolute;
 }
 
