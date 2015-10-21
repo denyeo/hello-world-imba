@@ -1,7 +1,7 @@
-#imgtag {
+.canvas {
     position: relative;
 }
-#imgtag .canvasimg {
+.canvas .canvasimg {
     position: absolute;
 }
 
@@ -16,4 +16,9 @@
 
 .marker img {
     position: relative;
+    width: 2em;
+    height: 2em;
+    left: -1em;
+    top: -1em;
+
 }
